@@ -1,21 +1,21 @@
 {
-    "name": "Cheez vs Da goverment",
+    "name": "cheez vs da govermrnt",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "corgio": "*"
+        "device": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "_locales/en-GB/README.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.11.37",
+        "target": "1.12.26",
         "targetId": "arcade"
     },
     "supportedTargets": [
